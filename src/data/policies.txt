@@ -1,0 +1,2 @@
+Policy ID: P001 | Premium: 5626.0 | Vehicle: Hyundai i20
+Policy ID: P001 | Premium: 5397.0 | Vehicle: Hyundai i20
